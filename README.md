@@ -1,7 +1,9 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <img src="hello-animated.svg" style="width: 100%;" alt="Hello everyone">
+</div>
 
 <!--
-**alpdoganfidan/alpdoganfidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RangeKing/RangeKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=rangeking&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangeking&langs_count=3&hide=javascript,go,html,css,tex)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
