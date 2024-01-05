@@ -73,8 +73,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Alp Doğan Fidan <div class="hi">👋</div></h1>
-        <h1>Alp Doğan Fidan <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is <br> Alp Doğan Fidan <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
