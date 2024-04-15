@@ -12,6 +12,29 @@ I keep learning. Currently, I am partipating for Datathons for Data Science, get
 
 I know Trendyol and I believe that I would enjoy being part of your team.
   </p>
+
+  <p> My Highlighted Projects:
+Deep Learning Object Detection with Python (Graduation Project):
+https://github.com/alpdoganfidan/Real-Time-Object-Detection-YOLOv5
+
+Sudoku Game with Java, SQL, and UML:
+https://github.com/alpdoganfidan/ITU-Sudoku-Project
+
+Introduction to Data Science:
+https://github.com/alpdoganfidan/MAT381E-IntroDataScience
+
+Java Programming and Algorithms:
+https://github.com/alpdoganfidan/ITU-Lecture-Materials-Labs/tree/main/ITU-MAT335E-Programming-Algorithms/src
+
+Web Design and Web Development for Trip Advisement with PHP, JavaScript, HTML, SQL:
+https://web.itu.edu.tr/fidan18/index.php
+
+E-Churn Analysis with Python:
+(Private)
+
+Analysis of the Expected Goals of Football Players with Python:
+(Private)
+  </p>
 </div>
 
 <!--
