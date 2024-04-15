@@ -13,10 +13,10 @@ I keep learning. Currently, I am partipating for Datathons for Data Science, get
 I know Trendyol and I believe that I would enjoy being part of your team.
   </p>
 
-  <p> My Highlighted Projects:
+  <p> <span>My Highlighted Projects:
 Deep Learning Object Detection with Python (Graduation Project):
 https://github.com/alpdoganfidan/Real-Time-Object-Detection-YOLOv5
-
+</span>
 Sudoku Game with Java, SQL, and UML:
 https://github.com/alpdoganfidan/ITU-Sudoku-Project
 
