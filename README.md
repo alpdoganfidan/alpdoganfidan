@@ -10,30 +10,36 @@ I want to build my career path in Data Science or Backend Engineering. For this 
 
 I keep learning. Currently, I am partipating for Datathons for Data Science, getting courses for Docker, Kubernetes, PorstreSQL, NoSQL (MongoDB).
 
-I know Trendyol and I believe that I would enjoy being part of your team.
   </p>
 
-  <p> <span>My Highlighted Projects:
-Deep Learning Object Detection with Python (Graduation Project):
-https://github.com/alpdoganfidan/Real-Time-Object-Detection-YOLOv5
-</span>
-Sudoku Game with Java, SQL, and UML:
-https://github.com/alpdoganfidan/ITU-Sudoku-Project
+  <p>
+    My Highlighted Projects:
+    <ul>
+      <li>Deep Learning Object Detection with Python (Graduation Project):<br>
+  https://github.com/alpdoganfidan/Real-Time-Object-Detection-YOLOv5</li>
+      <li>Sudoku Game with Java, SQL, and UML:<br>
+  https://github.com/alpdoganfidan/ITU-Sudoku-Project</li>
+      <li>Introduction to Data Science:<br>
+https://github.com/alpdoganfidan/MAT381E-IntroDataScience</li>
+      <li>Java Programming and Algorithms:<br>
+https://github.com/alpdoganfidan/ITU-Lecture-Materials-Labs/tree/main/ITU-MAT335E-Programming-Algorithms/src</li>
+      <li>Web Design and Web Development for Trip Advisement with PHP, JavaScript, HTML, SQL:<br>
+https://web.itu.edu.tr/fidan18/index.php</li>
+      <li>E-Churn Analysis with Python:<br>
+(Private)</li>
+      <li>Analysis of the Expected Goals of Football Players with Python:<br>
+(Private)</li>
+    </ul>
+    
+    
+    <li>My Highlighted Projects:
 
-Introduction to Data Science:
-https://github.com/alpdoganfidan/MAT381E-IntroDataScience
 
-Java Programming and Algorithms:
-https://github.com/alpdoganfidan/ITU-Lecture-Materials-Labs/tree/main/ITU-MAT335E-Programming-Algorithms/src
 
-Web Design and Web Development for Trip Advisement with PHP, JavaScript, HTML, SQL:
-https://web.itu.edu.tr/fidan18/index.php
 
-E-Churn Analysis with Python:
-(Private)
 
-Analysis of the Expected Goals of Football Players with Python:
-(Private)
+
+
   </p>
 </div>
 
