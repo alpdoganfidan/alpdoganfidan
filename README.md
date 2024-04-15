@@ -1,5 +1,12 @@
-<div style="width: 100%;">
-  <img src="hello-animated.svg" style="width: 50%;" alt="Hello everyone">
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+<div id="center">
+  <img src="hello-animated.svg" style="width: 100%;" alt="Hello everyone">
 </div>
 
 <div>
