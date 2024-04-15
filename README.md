@@ -1,11 +1,7 @@
-.center {
-  margin: auto;
+<div syle="margin: auto;
   width: 50%;
   border: 3px solid green;
-  padding: 10px;
-}
-
-<div id="center">
+  padding: 10px;">
   <img src="hello-animated.svg" style="width: 100%;" alt="Hello everyone">
 </div>
 
