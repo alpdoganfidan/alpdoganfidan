@@ -2,7 +2,7 @@
   width: 50%;
   border: 3px solid green;
   padding: 10px;">
-  <img src="hello-animated.svg" style="width: 100%;margin: auto;align:center" alt="Hello everyone">
+  <img src="hello-animated.svg" style="width: 50%;margin: auto;align:center" alt="Hello everyone">
 </div>
 
 <div>
