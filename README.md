@@ -6,17 +6,21 @@
 </div>
 
 <div>
+  <h1>  ABOUT ME</h1>
+</div>
+<div>
   <p>
 I am Alp, I am 23 and live in Ankara. I am fresh graduate from Istanbul Technical University. I worked as a RPA Developer at Native Digital, and as a Business Analyst at Ibtech with 2.5 years of total business experience.
 
 I want to build my career path in Data Science or Backend Engineering. For this aim, I continously developed different projects, and also I completed courses earlier during my education.
 
 I keep learning. Currently, I am partipating for Datathons for Data Science, getting courses for Docker, Kubernetes, PorstreSQL, NoSQL (MongoDB).
-
   </p>
-
-  <p>
-    My Highlighted Projects:
+</div>
+<div>
+  <h1>My Highlighted Projects:</h1>
+</div>
+<div>
     <ul>
       <li>Deep Learning Object Detection with Python (Graduation Project):<br>
   https://github.com/alpdoganfidan/Real-Time-Object-Detection-YOLOv5</li>
@@ -33,17 +37,6 @@ https://web.itu.edu.tr/fidan18/index.php</li>
       <li>Analysis of the Expected Goals of Football Players with Python:<br>
 (Private)</li>
     </ul>
-    
-    
-    <li>My Highlighted Projects:
-
-
-
-
-
-
-
-  </p>
 </div>
 
 <!--
