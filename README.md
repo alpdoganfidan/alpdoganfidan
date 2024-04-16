@@ -2,7 +2,7 @@
   width: 50%;
   border: 3px solid green;
   padding: 10px;">
-  <img src="hello-animated.svg" style="width: 50%;margin: auto;align:center" alt="Hello everyone">
+  <img src="hello-animated.svg" style="width: 100%;margin: auto;align:center" alt="Hello everyone">
 </div>
 
 <div>
@@ -40,9 +40,9 @@ https://web.itu.edu.tr/fidan18/index.php</li>
 </div>
 
 <div>
-  <h6>
+  <h1>
     Github Summary
-  </h6>
+  </h1>
 </div>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=alpdoganfidan&show_icons=true)
