@@ -10,7 +10,7 @@
 </div>
 <div>
   <p>
-I am Alp, I am 23 and live in Ankara. I am fresh graduate from Istanbul Technical University. I worked as a RPA Developer at Native Digital, and as a Business Analyst at Ibtech with 2.5 years of total business experience.
+I am Alp, I am 23 and live in Ankara.  I have BS (fresh graduate) in Mathematics Engineering from Istanbul Technical University with GPA of 3.40. I worked as a RPA Developer at Native Digital, and as a Business Analyst at Ibtech with 2.5 years of total business experience.
 
 I want to build my career path in Data Science or Backend Engineering. For this aim, I continously developed different projects, and also I completed courses earlier during my education.
 
